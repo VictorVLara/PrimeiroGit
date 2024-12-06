@@ -1,1 +1,0 @@
-#aqui seria uma nova fumcionalidade, em python, a ser adicionada no projeto
